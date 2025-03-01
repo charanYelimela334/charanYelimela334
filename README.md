@@ -7,7 +7,10 @@ I'm a passionate learner and tech enthusiast, currently studying at the Institut
 🛠️ Skills & Tools
 
 
-Programming Languages: Python, Java,HTML,CSS,JavaScipt
+Programming Languages: Python,
+
+
+FarmwWorks: Machine Learning
 
 
 Data Analytics: MS Excel, SQL
